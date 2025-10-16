@@ -1,3 +1,4 @@
+![Project Banner](Project-banner.png)
 # 🍴 Food Stall Hygiene & Taste AI
 Developed under IBM AI Training Program
 
